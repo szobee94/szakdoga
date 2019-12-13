@@ -1,4 +1,4 @@
-# szakdoga
+# Szakdolgozat
 
 ##  Összefoglaló:
 
