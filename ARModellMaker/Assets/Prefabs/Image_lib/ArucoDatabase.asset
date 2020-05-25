@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9896578bc82ea134fa18278b2c2065d7, type: 3}
+  m_Name: ArucoDatabase
+  m_EditorClassIdentifier: 
+  m_Images:
+  - Name: 100
+    Width: 0
+    Quality: 
+    TextureGUID: e5e198eb84926094abb8655730f5b3a7
+  - Name: 13
+    Width: 0
+    Quality: 
+    TextureGUID: c6b9050b3ef49544f9708964ce3c01af
+  - Name: 143
+    Width: 0
+    Quality: 
+    TextureGUID: feaee2a3af634844484e8be030639c84
+  - Name: 144
+    Width: 0
+    Quality: 
+    TextureGUID: c64da1f3a7c6e074cbd82d001b46abee
+  - Name: 153
+    Width: 0
+    Quality: 
+    TextureGUID: efb3301ec1b3d03409a375574955266d
+  - Name: 159
+    Width: 0
+    Quality: 
+    TextureGUID: 7185a2e91982f6141a1befac2b1f7d2c
+  - Name: 161
+    Width: 0
+    Quality: 
+    TextureGUID: 1c64b0164ff0ced4b84663ff66cffbf3
+  - Name: 166
+    Width: 0
+    Quality: 
+    TextureGUID: d8874c8e89b04474fa62bf85acba3469
+  - Name: 177
+    Width: 0
+    Quality: 
+    TextureGUID: bbc590b61d4bfab42987012ea447d2c1
+  - Name: 209
+    Width: 0
+    Quality: 
+    TextureGUID: e8a305c371ce5aa4abc130099a34891d
+  - Name: 214
+    Width: 0
+    Quality: 
+    TextureGUID: 0367861744b61534884a44fdcddf2839
+  - Name: 219
+    Width: 0
+    Quality: 
+    TextureGUID: 4eaeb120a07027b4593638a8b583da5e
+  - Name: 227
+    Width: 0
+    Quality: 
+    TextureGUID: 65d85f92875a8bb4093672b7c18082a1
+  - Name: 229
+    Width: 0
+    Quality: 
+    TextureGUID: b3234c9906b8955458e0e89083d754db
+  - Name: 237
+    Width: 0
+    Quality: 
+    TextureGUID: 1487d3a65400ebb4296ebd3489a729cb
+  - Name: 244
+    Width: 0
+    Quality: 
+    TextureGUID: 98ca589113cd4e5429babeffd97f4bbf
+  - Name: 247
+    Width: 0
+    Quality: 
+    TextureGUID: 939a79935e5e3ea429620b8d366bedb3
+  - Name: 6
+    Width: 0
+    Quality: 
+    TextureGUID: 09438260969108043a9da99cc689a00d
+  - Name: 7
+    Width: 0
+    Quality: 
+    TextureGUID: ebba515c60ee6f2478b466543075a3e2
+  - Name: 78
+    Width: 0
+    Quality: 
+    TextureGUID: 253ed8eaeefe92f4eb4b6a2d31020af5
+  - Name: 85
+    Width: 0
+    Quality: 
+    TextureGUID: 227494d47bbaffa48b8669c5f368af34
+  - Name: 86
+    Width: 0
+    Quality: 
+    TextureGUID: 62aa52094862b504c9b7c9ca37d27512
+  - Name: 90
+    Width: 0
+    Quality: 
+    TextureGUID: 68342e8c2b617aa47a2806ee5af178cf
+  - Name: 93
+    Width: 0
+    Quality: 
+    TextureGUID: 2d542730b48c14e469b6e33a73fcbc16
+  m_RawData: 
+  m_IsRawDataDirty: 1
+  m_CliVersion: 
