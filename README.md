@@ -1,7 +1,8 @@
 # Szakdoga
 
-Külön elérhető ARFoundation, illetve AREngine-t használó frontend alkalmazás. Mindkettő .apk formátumban fent van a repoban. Utóbbi csak Huawei eszközön működik. 
-Mindkét esetben külön backend áll rendelkezésre. Ezen felül elérhető egy vizualizációs alkalmazás, amely egy Oculus Quest szemüvegen működik, de elérhető egy .exe fájl is, amely lehetőséget nyújt kipróbálásra Unity nélkül. 2018+ Unity ajánlott hozzá, illetve az Oculus Integration Kit letöltése Asset Store-ból.
+Külön elérhető ARFoundation, illetve AREngine-t használó frontend alkalmazás. Mindkettő .apk formátumban is fent van a repoban. Utóbbi csak Huawei eszközön működik. 
+Mindkét esetben külön backend áll rendelkezésre. Ezen felül elérhető egy vizualizációs alkalmazás, amely egy Oculus Quest szemüvegen működik, 2018+ Unity ajánlott hozzá, illetve az Oculus Integration Kit letöltése Asset Store-ból.
+Elérhető egy .exe futtatható fájl, így nem feltétlen szükséges Unity.
 
 A prjoekt működése:
 - Megfelelő backend indítása
