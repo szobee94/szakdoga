@@ -27,4 +27,5 @@ $ python drone_control.py
    - A, D: forgás Z-tengely körül balra, vagy jobbra
    - felfelé, lefelé nyíl: előre, hátra mozgás
    - jobbra, balra nyíl: jobbra, balra mozgás
+   - T, Z: arm, disarm
    
